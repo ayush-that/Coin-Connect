@@ -33,7 +33,7 @@ export function Footer() {
             </Button>
             <Button variant="ghost" size="icon" asChild>
               <a
-                href="https://github.com/ayush-that/coinconnect"
+                href="https://github.com/ayush-that/Coinbase-Connect"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:text-primary transition-colors"
