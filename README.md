@@ -1,6 +1,6 @@
 ## React + Vite + TS + shadcn/ui + CoinBase Wallet SDK Template
 
-![The easiest way to connect a React app with Coinbase Wallet (1)](https://github.com/user-attachments/assets/e7d235ad-2ddf-4e0c-9435-5ac2de3f346b)
+![The easiest way to connect a React app with Coinbase Wallet (1)](https://github.com/user-attachments/assets/b480cefe-f955-42c7-85d8-d379f516b14c)
 
 ## Getting Started
 
@@ -56,7 +56,7 @@ npm run preview
 - [x] Built with Vite for fast development
 - [x] Type-safe with TypeScript
 
-https://github.com/user-attachments/assets/a1a1cbc2-5209-413e-a4cf-7b664079a695
+https://github.com/user-attachments/assets/9f31c3ad-59a2-4270-88dd-825e713b6ba1
 
 ## Project Structure
 
